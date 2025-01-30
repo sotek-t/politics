@@ -1,0 +1,2 @@
+- There are two paths to amend this constitution. One is for the legislature to, by 2/3rds supermajority, pass a proposal for amendment, at which point a yes/no plebiscite must take place on said amendment, which requires a 60% majority to pass.
+- The other is for a plebiscite to be proposed by the citizenry as an amendment; it must be a yes/no plebiscite which is clearly stated as an amendment, and must pass with 3/4ths majority to be enacted.
