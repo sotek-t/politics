@@ -1,0 +1,4 @@
+- There is a grand tribunal (selected via sortition) which oversees laws and may hear appeals to the rulings of petty tribunals if it so consents.
+- There are petty tribunals (established as required, membership also selected via sortition) which hear challenges to the constitutionality of governmental actions or inactions by either those directly affected or if none are directly affected, those who can reasonably claim to be meaningfully indirectly affected by the action or inaction.
+- Tribunals can overturn governmental actions, order reversal of same, order compensation, deem acts or the justifications for acts unconstitutional, demand the legislature pass laws, and so on.
+- The grand tribunal can overturn laws or parts of laws in order to maintain their constitutionality, but is not permitted to engage in legislating in so doing.
