@@ -1,0 +1,6 @@
+- All who reside within the boundaries of the polity at the time of the adoption of this constitution are citizens.
+- All who are born within the boundaries of the polity, unless their parents both owe exclusive allegiance to another polity and reject the authority of this polity over them, are citizens.
+- Those who reside within the polity on or after the age of majority, and have a citizen parent, are citizens.
+- Those who were not citizens but have completed a naturalization process as established by law, are citizens.
+- If the polity's territory expands, those who are resident in the new territory at the time of said expansion become citizens.
+- Citizenship may only be revoked with the consent of the former citizen, and only if they have citizenship in the location where they reside afterwards.
