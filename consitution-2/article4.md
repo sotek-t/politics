@@ -8,6 +8,8 @@ Oversight privileges can be stripped from a Senator or Senator-Emeritus via vote
 Voting in the Senate must be performed via secret ballot; Senators are permitted to discuss their vote but attenpts to prove it outside of the trivial (known absentee, unanimous) or formal allegations of fraud in the count are to be considered bribery and thus should lead to impeachment.
 Nothing is permitted to restrict the access of a voting Senator from scheduled sessions of the Senate unless the Senate as a whole grants permission ahead of time, though such permission must be reversible.
 
+The government may not maintain secrecy except as permitted via majority vote of the Senate.
+
 ----------------
 
 This version is a poorly-drafted mess, but:
@@ -17,3 +19,4 @@ This version is a poorly-drafted mess, but:
 - secret ballot! Fundamentally, senators as a random cross-section of society are potentially prone to various kinds of bribery, hence mandatory ballot secrecy and the Senator-emeritus status.
 - the senate is vaguely jury-inspired.
 - the access clause is inspired by Speech And Debate but allows the senate to for instance mandate metal detectors. also, like, the Senate can't vote to abolish itself.
+- secrecy in general bad for democratic government. as the senate has oversight, they get to decide when secrecy is valid.
