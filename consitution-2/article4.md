@@ -7,6 +7,8 @@ Senators and Senator-Emeriti are to be paid a salary such that their wages are a
 Oversight privileges can be stripped from a Senator or Senator-Emeritus via vote of the Senate, but only an impeachment can remove their salary or vote (if a regular Senator).
 Voting in the Senate must be performed via secret ballot; Senators are permitted to discuss their vote but attenpts to prove it outside of the trivial (known absentee, unanimous) or formal allegations of fraud in the count are to be considered bribery and thus should lead to impeachment.
 Nothing is permitted to restrict the access of a voting Senator from scheduled sessions of the Senate unless the Senate as a whole grants permission ahead of time, though such permission must be reversible.
+The Senate shall have sole power of impeachment; a simple majority vote may begin an impeachment trial, but conviction requires at least two thirds of all a full voting senate.
+
 
 The government may not maintain secrecy except as permitted via majority vote of the Senate.
 
