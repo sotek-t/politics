@@ -74,7 +74,7 @@ Each state, as well as, collectively, the territories and possessions of the Uni
 
 Congress may by law regulate the manner of holding these elections.
 
-The House of Representatives shall choose from among their number a Speaker of the House, and other officers as it may see fit.
+The House of Representatives shall choose from among their number a Speaker of the House, and other officers as it may see fit. No individual may be selected as Speaker ever again after having served at least seven years in that position.
 
 § 3. Elections to Congress shall be held on the Tuesday after the first Monday in November of every second year. The term of office of all Representatives shall expire at noon on the first day of the following year, and the terms of their successors shall then begin.
 
