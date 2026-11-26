@@ -70,7 +70,7 @@ We, the People of the United States, in order to form a more perfect Union, esta
 
 § 2. The House of Representatives shall be composed of members elected every second year. The method of election to the House of Representatives shall be proportional representation 
 
-Each state, as well as, collectively, the territories and possessions of the United States, shall elect no less than five and no more than fifty representatives, who will have voting power in the House of Representatives proportionate to their share of the votes cast in the most recent election for their seat.
+The total voting power of each delegation in the House of Representatives shall be proportional to the total number of votes cast in that jurisdiction in the most recent general election, and shall be divided equally among the Representatives elected therefrom.
 
 Congress may by law regulate the manner of holding these elections.
 
