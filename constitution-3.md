@@ -116,7 +116,7 @@ It shall have the power to define and punish piracy and felonies committed on th
 
 § 10. Congress shall have the power to establish and organize the departments of government, to constitute tribunals inferior to the Supreme Court, to make rules for the disposition of all property belonging to the United States, and to make all laws necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the Government of the United States, or in any department or officer thereof, and to guarantee the rights declared in this Constitution.
 
-Article II - The Senate, the Voice of the People
+### Article II - The Senate, the Voice of the People
 
 § 1. The oversight power shall be shared between Congress and the Senate.
 
